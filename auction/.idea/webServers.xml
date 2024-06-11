@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6d25735-1098-4a22-a332-35af1ed8c8f6" name="sftp://php.scweb.ca" url="http://amehta.scweb.ca">
+        <fileTransfer rootFolder="/home/amehta/public_html" accessType="SFTP" host="php.scweb.ca" port="22" sshConfigId="56a4b43a-6f73-41ec-abff-4623c4beb7b1" sshConfig="amehta@php.scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
